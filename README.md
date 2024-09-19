@@ -51,6 +51,8 @@ Usage: Used to store user settings and preferences.
 Conclusion
 
 The architectural choices and third-party packages used in the magic_tracker application are aimed at creating a robust, maintainable, and user-friendly application. By leveraging Flutter's capabilities and carefully selected packages, I ensure a high-quality experience for users across all platforms.
+
+
 <img src="https://github.com/user-attachments/assets/c8f1530d-32cd-466c-a115-788c8fb82e3d" alt="Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 22 56" style="width:30%;">
 
 <img src="https://github.com/user-attachments/assets/8637450b-78a5-48f4-bbb2-4f30eb4b5528" alt="Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 03" style="width:30%;">
