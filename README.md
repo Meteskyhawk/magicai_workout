@@ -14,19 +14,16 @@ I chose Flutter as the primary framework for building the magic_tracker applicat
 
 I use the provider package for state management. provider is a simple and efficient way to manage state in Flutter applications. It allows me to separate business logic from UI code, making the app more modular and easier to maintain.
 
-3. Dependency Injection
 
-provider also serves as my dependency injection framework. This allows me to inject dependencies into widgets, making the code more testable and easier to manage.
-
-4. Internationalization
+3. Internationalization
 
 I use the intl package to handle internationalization. This package provides a simple way to format dates, numbers, and currencies, and to manage localized messages. This is crucial for making the app accessible to a global audience.
 
-5. Animation
+4. Animation
 
 The lottie package is used for animations. Lottie allows me to use animations created in Adobe After Effects in the Flutter app. This enhances the user experience by providing smooth and visually appealing animations.
 
-6. Shared Preferences
+5. Shared Preferences
 
 I use the shared_preferences package to store simple data persistently. This is useful for storing user settings and preferences, which need to be retained across app launches.
 
