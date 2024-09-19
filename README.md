@@ -52,10 +52,12 @@ Conclusion
 
 The architectural choices and third-party packages used in the magic_tracker application are aimed at creating a robust, maintainable, and user-friendly application. By leveraging Flutter's capabilities and carefully selected packages, I ensure a high-quality experience for users across all platforms.
 
+<img src="https://github.com/user-attachments/assets/8637450b-78a5-48f4-bbb2-4f30eb4b5528" alt="Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 03" style="width:50%;">
 
+![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 22 56](https://github.com/user-attachments/assets/c8f1530d-32cd-466c-a115-788c8fb82e3d)
+![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 03](https://github.com/user-attachments/assets/8637450b-78a5-48f4-bbb2-4f30eb4b5528)
 ![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 21](https://github.com/user-attachments/assets/8f9e3cee-6176-49b4-8b9e-2707f1253d52)
 ![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 07](https://github.com/user-attachments/assets/8d513a82-8407-46fb-ab5b-f44f4b46e96f)
-![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 23 03](https://github.com/user-attachments/assets/8637450b-78a5-48f4-bbb2-4f30eb4b5528)
-![Simulator Screenshot - iPhone 15 - 2024-09-19 at 13 22 56](https://github.com/user-attachments/assets/c8f1530d-32cd-466c-a115-788c8fb82e3d)
+
 
 
