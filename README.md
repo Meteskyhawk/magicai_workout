@@ -33,19 +33,21 @@ I use the shared_preferences package to store simple data persistently. This is 
 Third-Party Packages
 
 1. provider
-
 Reasoning: Simplifies state management and dependency injection.
 Usage: Used to manage the state of the application and inject dependencies into widgets.
-2. intl
 
+
+2. intl
 Reasoning: Provides internationalization and localization support.
 Usage: Used to format dates, numbers, and currencies, and to manage localized messages.
-3. lottie
 
+
+3. lottie
 Reasoning: Allows the use of high-quality animations created in Adobe After Effects.
 Usage: Used to display animations in the app, enhancing the user experience.
-4. shared_preferences
 
+
+4. shared_preferences
 Reasoning: Provides a simple way to store data persistently.
 Usage: Used to store user settings and preferences.
 Conclusion
