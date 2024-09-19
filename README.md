@@ -1,4 +1,6 @@
 # magicai_workout
+Magic Tracker is a Flutter application designed to help users plan and track their workouts. The app provides features such as adding,
+updating, and deleting workouts, as well as viewing weekly summaries of workout statistics.
 
 # Architectural Choices and Third-Party Packages
 
